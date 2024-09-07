@@ -1,11 +1,11 @@
-<h1> 👋 Hi I'm Ethan </h1>
+<h2> 👋 Hi I'm Ethan! </h2>
 
 - 📚 Computer Science Student at The University of Texas at Dallas
 - 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE)
 - 🚀 Current Project Manager at [ACM](https://github.com/acm-projects)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin-right: 10px;"/> 
