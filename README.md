@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a sophmore studying computer science at UTD. In my free time I love to workout, play video games, and watch anime (some of my favorites are Steins;Gate, FMAB, and Samurai Champloo). My interests within computer science lie in Cloud Services, RAG (Retrieval Augmented Generation), AI, and full-stack development. I am skilled in C++, Java, Python, HTML/JS/CSS and have experience with React, Next, Express, and AWS.
 <!--
 **Pakkuu/Pakkuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
