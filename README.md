@@ -1,11 +1,9 @@
-<h1> 👋 Hi I'm Ethan</h1>
-<h3>Aspriring Software Engineer</h3>
+<h1> 👋 Hi I'm Ethan </h1>
 
-- 🔭 I’m currently working on [SAGE](https://github.com/TheSAGEProject/SAGE)
+📚 Computer Science Student at The University of Texas at Dallas
+🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE)
+🚀 Current Project Manager at [ACM](https://github.com/acm-projects)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
