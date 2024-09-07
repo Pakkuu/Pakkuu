@@ -1,8 +1,8 @@
 <h1> 👋 Hi I'm Ethan </h1>
 
-📚 Computer Science Student at The University of Texas at Dallas
-🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE)
-🚀 Current Project Manager at [ACM](https://github.com/acm-projects)
+- 📚 Computer Science Student at The University of Texas at Dallas
+- 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE)
+- 🚀 Current Project Manager at [ACM](https://github.com/acm-projects)
 
 
 <h3 align="left">Languages and Tools:</h3>
