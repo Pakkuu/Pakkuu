@@ -1,8 +1,8 @@
 <h2> 👋 Hi I'm Ethan! </h2>
 
 - 📚 Computer Science Student at The University of Texas at Dallas
-- 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE)(Student Advising and Guidance Engine)
-- 🚀 Current Project Manager at the [Association for Computing Machinery](https://github.com/acm-projects)
+- 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE) (Student Advising and Guidance Engine)
+- 🚀 Current Project Manager at [ACM](https://github.com/acm-projects)
 
 
 <h4 align="left">Languages and Tools:</h4>
