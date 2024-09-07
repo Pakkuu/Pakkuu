@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ethan</h1>
+<h1> 👋 Hi I'm Ethan</h1>
 <h3>Aspriring Software Engineer</h3>
 
 - 🔭 I’m currently working on [SAGE](https://github.com/TheSAGEProject/SAGE)
