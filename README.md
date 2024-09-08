@@ -7,7 +7,7 @@
 - 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE) (Student Advising and Guidance Engine)
 - 💜 Passionate about Cloud and Full-Stack Development
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">Tools and Languages</h4>
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" height="40" style="margin: 10px;"/> 
