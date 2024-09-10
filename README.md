@@ -29,4 +29,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="55" height="55" style="margin: 10px;"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-*If my domain: "ethanvarghese.xyz" is broken, that is because I just moved the website to AWS CloudFront and thus updated the domain to also use AWS Nameservers. It may take up to 48 hours for the DNS propogation to complete. In the meantime, I am currently hosting my website on Vercel -> [click here](https://epv-website.vercel.app/)*
+*If you’re having trouble accessing my domain, "ethanvarghese.xyz," it’s likely due to my recent migration of the website to AWS CloudFront and the subsequent update of the domain to use AWS Nameservers. Please note that DNS propagation may take up to 48 hours to fully complete. In the meantime, you can still access my website hosted on Vercel -> [click here](https://epv-website.vercel.app/)*
