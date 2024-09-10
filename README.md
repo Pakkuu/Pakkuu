@@ -29,4 +29,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="55" height="55" style="margin: 10px;"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-- If my domain: "ethanvarghese.xyz" is broken, that is because I just updated the CNAME records to point to an AWS Cloudfront distribution. It may take up to 48 hours for the DNS propogation to complete. In the meantime, I am currently hosting my website using vercel -> [click here](https://epv-website.vercel.app/)
+*If my domain: "ethanvarghese.xyz" is broken, that is because I just updated the CNAME records to point to an AWS Cloudfront distribution. It may take up to 48 hours for the DNS propogation to complete. In the meantime, I am currently hosting my website using vercel -> [click here](https://epv-website.vercel.app/)*
