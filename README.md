@@ -1,5 +1,6 @@
 <h2> 👋 Hi I'm Ethan! </h2>
 
+<h6>
 - 📚 Computer Science Student at The University of Texas at Dallas
 - 💠 AWS Certified [Solutions Architect](https://cp.certmetrics.com/amazon/en/public/verify/credential/fca9329a4c99464da824a02d8ad43de4)
 - 🚀 Project Manager at [ACM](https://github.com/acm-projects)
@@ -7,6 +8,7 @@
 - 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE) (Student Advising and Guidance Engine)
 - 💜 Passionate about Cloud and Full-Stack Development
 - 👀 Looking for Software Engineering Internships
+</h6>
 
 <h4 align="left">Tools</h4>
 <p align="left"> 
