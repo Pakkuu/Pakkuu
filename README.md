@@ -28,5 +28,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55" style="margin: 10px;"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="55" height="55" style="margin: 10px;"/>&nbsp;&nbsp;&nbsp;
 </p>
-
-*If you’re having trouble accessing my domain, "ethanvarghese.xyz," it’s likely due to my recent migration of the website to AWS CloudFront and the subsequent update of the domain to use AWS Nameservers. Please note that DNS propagation may take up to 48 hours to fully complete. In the meantime, you can still access my website hosted on Vercel -> [click here](https://epv-website.vercel.app/)*
