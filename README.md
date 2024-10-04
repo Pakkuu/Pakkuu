@@ -6,7 +6,6 @@
 - 👨🏾‍💻 Student Software Developer at [Dallas Formula Racing](https://github.com/DallasFormulaRacing)
 - 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE) (Student Advising and Guidance Engine)
 - 💜 Passionate about Cloud and Full-Stack Development
-- 👀 Looking for Software Engineering Internships
 
 <h4 align="left">Tools</h4>
 <p align="left"> 
