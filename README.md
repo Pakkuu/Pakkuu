@@ -3,6 +3,7 @@
 - 📚 Computer Science Student at The University of Texas at Dallas
 - 💠 AWS Certified [Solutions Architect](https://cp.certmetrics.com/amazon/en/public/verify/credential/fca9329a4c99464da824a02d8ad43de4)
 - 🚀 Project Manager at [ACM](https://github.com/acm-projects)
+- 🧑🏾‍🏫 Techincal Officer at [GDSC UTD](https://sites.google.com/view/gdsc-utd)
 - 👨🏾‍💻 Student Software Developer at [Dallas Formula Racing](https://github.com/DallasFormulaRacing)
 - 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE) (Student Advising and Guidance Engine)
 - 💜 Passionate about Cloud and Full-Stack Development
