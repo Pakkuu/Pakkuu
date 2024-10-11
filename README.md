@@ -1,7 +1,7 @@
 <h2> 👋 Hi I'm Ethan! </h2>
 
 - 📚 Computer Science Student at The University of Texas at Dallas
-- 💳 Incoming Software Engineer Intern at [Capital One](https://www.capitalone.com/about/)
+- 🏦 Incoming Software Engineer Intern at [Capital One](https://www.capitalone.com/about/)
 - 💠 AWS Certified [Solutions Architect](https://cp.certmetrics.com/amazon/en/public/verify/credential/fca9329a4c99464da824a02d8ad43de4)
 - 🚀 Project Manager at [ACM](https://github.com/acm-projects)
 - 🧑🏾‍🏫 Techincal Officer at [GDSC UTD](https://sites.google.com/view/gdsc-utd)
