@@ -5,7 +5,7 @@
 - 🚀 Project Manager at [ACM](https://github.com/acm-projects)
 - 🧑🏾‍🏫 Technical Officer at [GDSC UTD](https://sites.google.com/view/gdsc-utd)
 - 👨🏾‍💻 Student Software Developer at [Dallas Formula Racing](https://github.com/DallasFormulaRacing)
-- 🛠️ Actively working on SAGE (Student Advising and Guidance Engine)
+- 🛠️ Former SAGE (Student Advising and Guidance Engine) dev (Projects 24' Spring)
 - 💜 Passionate about Cloud and Full-Stack Development
 
 <h4 align="left">Tools</h4>
