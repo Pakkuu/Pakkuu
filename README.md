@@ -4,7 +4,7 @@
 - 💠 AWS Certified [Solutions Architect](https://cp.certmetrics.com/amazon/en/public/verify/credential/fca9329a4c99464da824a02d8ad43de4)
 - 🚀 Project Manager at [ACM](https://github.com/acm-projects)
 - 🧑🏾‍🏫 Former Technical Committee Officer at [GDSC UTD](https://sites.google.com/view/gdsc-utd)
-- 👨🏾‍💻 Student Software Developer at [Dallas Formula Racing](https://github.com/DallasFormulaRacing)
+- 👨🏾‍💻 Former Student Software Developer at [Dallas Formula Racing](https://github.com/DallasFormulaRacing)
 - 🛠️ Former SAGE (Student Advising and Guidance Engine) dev (Projects 24' Spring)
 - 💜 Passionate about Cloud and Full-Stack Development
 
